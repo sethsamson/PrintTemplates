@@ -28,8 +28,8 @@ Set any of the options in this section from 'false' to 'true' in order to enable
 
 {# Normal Label (2.25x1.25) settings #}
 
-{% set normal_description_font_size = '9pt' %}      {# Default is 9pt #}
-{% set normal_price_font_size = '12pt' %}           {# Default is 12pt #}
+{% set normal_description_font_size = '8pt' %}      {# Default is 9pt #}
+{% set normal_price_font_size = '8pt' %}           {# Default is 12pt #}
 
 {# Alt. Label (2.00x1.00) settings #}
 
